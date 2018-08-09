@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../web/bs.html [go-lambda]'" />
-    <option name="defaultScopeName" value="File '.../web/bs.html [go-lambda]'" />
-    <option name="SEARCH_SCOPE" value="File '.../web/bs.html [go-lambda]'" />
+    <option name="customScope" value="File '.../web/form.html [go-lambda]'" />
+    <option name="defaultScopeName" value="File '.../web/form.html [go-lambda]'" />
+    <option name="SEARCH_SCOPE" value="File '.../web/form.html [go-lambda]'" />
   </component>
 </application>
