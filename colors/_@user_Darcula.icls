@@ -1,0 +1,16 @@
+<scheme name="_@user_Darcula" version="142" parent_scheme="Darcula">
+  <metaInfo>
+    <property name="created">2018-09-12T21:41:26</property>
+    <property name="ide">idea</property>
+    <property name="ideVersion">2018.2.3.0.0</property>
+    <property name="modified">2018-09-12T23:03:56</property>
+    <property name="originalScheme">Darcula</property>
+  </metaInfo>
+  <attributes>
+    <option name="GO_KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="5685ff" />
+      </value>
+    </option>
+  </attributes>
+</scheme>
