@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../src/interface/main.go [go-lambda]'" />
-    <option name="defaultScopeName" value="File '.../src/interface/main.go [go-lambda]'" />
-    <option name="SEARCH_SCOPE" value="File '.../src/interface/main.go [go-lambda]'" />
+    <option name="customScope" value="File '.../src/cloudx/main.go [go-lambda]'" />
+    <option name="defaultScopeName" value="File '.../src/cloudx/main.go [go-lambda]'" />
+    <option name="SEARCH_SCOPE" value="File '.../src/cloudx/main.go [go-lambda]'" />
   </component>
 </application>
